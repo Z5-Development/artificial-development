@@ -16,7 +16,7 @@
   </p>
   <p>
   <br>
-  🌱 I'm currently learning about  💻
+  🌱 I'm currently learning to master SQL 💻
   <br>
   😄 Pronouns: he/him/his 👩🏻
   <br> 
@@ -37,14 +37,14 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,php,html,css,js,java,bootstrap,androidstudio,visualstudio,eclipse" /><br>
+    <img src="https://skillicons.dev/icons?i=github,html,css,js,java,bootstrap,TailwindCSS-Dark,visualstudio," /><br>
   </a>
 </p>
 <br>
 <h4>Learning</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,ruby,r,firebase" />
+    <img src="https://skillicons.dev/icons?i=py,ruby,firebase" />
   </a>
 </p>
 <hr>
