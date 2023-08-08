@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋🏻, I am JB Development! </br> 
 </h1>
 <p align="center">  ⚡</p>
-<p align="center">Turning imagination into reality 🚀</p>
+<p align="center">Coding my imaginations..🌃</p>
 <p align="center">
  <a href=" https://ko-fi.com/jbdevelopment" target="_blank"><img alt="" src="https://img.shields.io/badge/Help%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a></p>
 
@@ -16,7 +16,7 @@
   </p>
   <p>
   <br>
-  🌱 I'm currently learning to master SQL 💻
+  🌱 I'm currently learning to master mySQL 💻
   <br>
   😄 Pronouns: he/him/his 👩🏻
   <br> 
@@ -29,14 +29,14 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,html,css,js,java,bootstrap,tailwindcss-dark,visualstudio," /><br>
+    <img src="https://skillicons.dev/icons?i=lua,js,tailwind,github,html,css,java,bootstrap,react,visualstudio," /><br>
   </a>
 </p>
 <br>
 <h4>Learning</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,ruby,firebase" />
+    <img src="https://skillicons.dev/icons?i=py,ruby,firebase,mysql" />
   </a>
 </p>
 <hr>
