@@ -12,11 +12,11 @@
 </h1>
 <br>
 <p align="center">
-  Hi! I am Jesus, but I go by JB, I am a Computer Science Comp student. 👨🏽‍💻
+  Hi! I am JB, I am a Computer Science Comp student. 👨🏽‍💻
   </p>
   <p>
   <br>
-  🌱 I'm currently learning to master mySQL 💻
+  🌱 I'm currently working on my Social Media app💻
   <br>
   😄 Pronouns: he/him/his 👩🏻
   <br> 
