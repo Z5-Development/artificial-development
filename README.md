@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋🏻, I am JB Development! </br> 
+<h1 align="center"> Hi 👋🏻, I am AT ! </br> 
 </h1>
 <p align="center">  ⚡</p>
 <p align="center">Coding my imaginations..🌃</p>
@@ -12,7 +12,7 @@
 </h1>
 <br>
 <p align="center">
-  Hi! I am JB, I am a Computer Science Comp student. 👨🏽‍💻
+  Hi! I am AT, I am a Computer Science Comp student. 👨🏽‍💻
   </p>
   <p>
   <br>
