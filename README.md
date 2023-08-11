@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋🏻, I am AT ! </br> 
+<h1 align="center"> I do coding and computer magic ✨ :D ! </br> 
 </h1>
 <p align="center">  ⚡</p>
 <p align="center">Coding my imaginations..🌃</p>
