@@ -3,7 +3,7 @@
 <p align="center">  ⚡</p>
 <p align="center">Coding my imaginations..🌃</p>
 <p align="center">
- <a href="https://ko-fi.com/jbdevelopment" target="_blank"><img alt="" src="https://img.shields.io/badge/Help%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a></p>
+ <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'X8X3N0AZX');kofiwidget2.draw();</script> 
 
 
 
